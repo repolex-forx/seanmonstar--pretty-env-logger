@@ -49,7 +49,9 @@
           "githubUrl": "https://github.com/rust-lang/log",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/0e238400e18649415dc710c025e99c009a1bb744/chunk-001.nq.gz",
+      "dep": "dep/0e238400e18649415dc710c025e99c009a1bb744.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
