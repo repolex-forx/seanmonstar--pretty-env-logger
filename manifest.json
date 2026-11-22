@@ -28,6 +28,27 @@
       ],
       "ast": [
         "aggregate/ast/0e238400e18649415dc710c025e99c009a1bb744/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0e238400e18649415dc710c025e99c009a1bb744.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "env_logger",
+          "ecosystem": "CARGO",
+          "version": "0.10",
+          "githubOrg": "rust-cli",
+          "githubRepo": "env_logger",
+          "githubUrl": "https://github.com/rust-cli/env_logger",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "log",
+          "ecosystem": "CARGO",
+          "version": "0.4",
+          "githubOrg": "rust-lang",
+          "githubRepo": "log",
+          "githubUrl": "https://github.com/rust-lang/log",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
