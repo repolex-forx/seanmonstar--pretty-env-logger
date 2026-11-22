@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "seanmonstar",
+  "repo": "pretty-env-logger",
+  "versions": [
+    {
+      "commit": "0e238400e18649415dc710c025e99c009a1bb744",
+      "parsed_at": "2026-11-22T12:42:44.110454+00:00",
+      "tag": "v0.5.0",
+      "filetree": "filetree/0e238400e18649415dc710c025e99c009a1bb744.nq.gz",
+      "blobs": [
+        "blob/6b0a21a3ed9b3903de50333452da813cac4eefde.nq.gz",
+        "blob/d822cd56f8b53a3b74590fbf19563ec10e6c6f9f.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/13b5b360fb517284e9722da2f0a110b69ad2039b.nq.gz",
+        "blob/5745ebdec9fb2465e427117d1ad37470109a39f8.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/1e6475984645b2833382ab977f937271a7d44b98.nq.gz",
+        "blob/fdc2d3905a6dd86c7e51aff25fd4bc27b09f9985.nq.gz",
+        "blob/860d4d10d78aac6dd6d9cc6333075f91664e8b79.nq.gz",
+        "blob/5636075d3b248dccab37eed6a7aa00ffe0d5d95a.nq.gz",
+        "blob/05e610cb0be428c2b59accdd01d098a32a48a475.nq.gz",
+        "blob/2bca22631dfe4e498e2102351506d0b8ea79fa8d.nq.gz",
+        "blob/f85e24833b7bdeea7b7010796958164f5159a4f2.nq.gz",
+        "blob/11070b56e586f8486814aefea281e3bdad605902.nq.gz",
+        "blob/162f75e785a3cf2a88d8a492374111418b89c70b.nq.gz",
+        "blob/9345c792e139d9104e5758758514c8313146be7f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
